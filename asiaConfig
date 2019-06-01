@@ -1,0 +1,20 @@
+{
+	"node_name": "Asia",
+	"node_ip": "program.cs.uh.edu",
+	"node_port": "20163",
+	"geo_tag": "asia",
+	"log_file": "asiaLog",
+	"links": [{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20171",
+			"link_delay": "1",
+			"geo_tag": "northamerica"
+		},
+		{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20169",
+			"link_delay": "2",
+			"geo_tag": "southamerica"
+		}
+	]
+}

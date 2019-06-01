@@ -1,0 +1,27 @@
+{
+	"node_name": "Africa",
+	"node_ip": "program.cs.uh.edu",
+	"node_port": "20165",
+	"geo_tag": "africa",
+	"log_file": "africaLog",
+	"links": [
+		{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20169",
+			"link_delay": "2",
+			"geo_tag": "southamerica"
+		},
+        {
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20161",
+			"link_delay": "3",
+			"geo_tag": "europe"
+		},{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20167",
+			"link_delay": "4",
+			"geo_tag": "antartica"
+		}
+	]
+}
+

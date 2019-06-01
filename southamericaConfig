@@ -1,0 +1,27 @@
+{
+	"node_name": "South America",
+	"node_ip": "program.cs.uh.edu",
+	"node_port": "20169",
+	"geo_tag": "southamerica",
+	"log_file": "southamericaLog",
+	"links": [{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20167",
+			"link_delay": "3",
+			"geo_tag": "antartica"
+		},
+		{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20165",
+			"link_delay": "2",
+			"geo_tag": "africa"
+		},
+		{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20171",
+			"link_delay": "2",
+			"geo_tag": "northamerica"
+		}
+	]
+}
+

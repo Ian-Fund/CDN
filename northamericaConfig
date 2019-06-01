@@ -1,0 +1,21 @@
+{
+	"node_name": "North America",
+	"node_ip": "program.cs.uh.edu",
+	"node_port": "20171",
+	"geo_tag": "northamerica",
+	"log_file": "northamericaLog",
+	"links": [{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20161",
+			"link_delay": "3",
+			"geo_tag": "europe"
+		},
+		{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20169",
+			"link_delay": "2",
+			"geo_tag": "southamerica"
+		}
+	]
+}
+

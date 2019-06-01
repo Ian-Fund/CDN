@@ -1,0 +1,27 @@
+{
+	"node_name": "Antartica",
+	"node_ip": "program.cs.uh.edu",
+	"node_port": "20167",
+	"geo_tag": "antartica",
+	"log_file": "antarticaLog",
+	"links": [{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20169",
+			"link_delay": "4",
+			"geo_tag": "southamerica"
+		},
+		{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20163",
+			"link_delay": "5",
+			"geo_tag": "asia"
+		},
+        {
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20161",
+			"link_delay": "6",
+			"geo_tag": "europe"
+		}
+	]
+}
+

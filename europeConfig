@@ -1,0 +1,28 @@
+{
+	"node_name": "Europe",
+	"node_ip": "program.cs.uh.edu",
+	"node_port": "20161",
+	"geo_tag": "europe",
+	"log_file": "europeLog",
+	"links": [{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20163",
+			"link_delay": "3",
+			"geo_tag": "asia"
+		},
+		{
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20165",
+			"link_delay": "2",
+			"geo_tag": "africa"
+		},
+        {
+			"node_ip": "program.cs.uh.edu",
+			"node_port": "20171",
+			"link_delay": "1",
+			"geo_tag": "northamerica"
+		}
+
+	]
+}
+
